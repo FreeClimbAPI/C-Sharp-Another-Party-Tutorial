@@ -1,4 +1,4 @@
-# C# - Another Party Tutorial
+# C# - Connect Caller To Another Party
 
 This project serves as a guide to help you build an application with FreeClimb. View this tutorial on [FreeClimb.com](https://docs.freeclimb.com/docs/connect-a-caller-to-another-party-1#section-c). Specifically, the project will:
 
